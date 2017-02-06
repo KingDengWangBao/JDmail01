@@ -1,2 +1,1 @@
-# JDmail01
-JDNetWorksuperMarket
+init
